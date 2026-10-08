@@ -1,56 +1,56 @@
 window.WAKATIME_WEEKLY = {
-  "updated_at": "2026-06-30T04:20:29.203Z",
+  "updated_at": "2026-10-08T05:52:08.131Z",
   "stats": {
-    "total_hours": 55.28,
-    "daily_avg": 7.9,
+    "total_hours": 14.25,
+    "daily_avg": 2.04,
     "trend": "rising",
     "max_day": {
-      "date": "2026-06-29",
-      "hours": 12.63,
-      "text": "12 hrs 37 mins"
+      "date": "2026-10-07",
+      "hours": 9.16,
+      "text": "9 hrs 9 mins"
     }
   },
   "days": [
     {
-      "date": "2026-06-24",
-      "hours": 5.91,
-      "text": "5 hrs 54 mins"
+      "date": "2026-10-02",
+      "hours": 0.97,
+      "text": "57 mins"
     },
     {
-      "date": "2026-06-25",
-      "hours": 6.75,
-      "text": "6 hrs 44 mins"
+      "date": "2026-10-03",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-06-26",
-      "hours": 8.3,
-      "text": "8 hrs 17 mins"
+      "date": "2026-10-04",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-06-27",
-      "hours": 8.44,
-      "text": "8 hrs 26 mins"
+      "date": "2026-10-05",
+      "hours": 0,
+      "text": "0 secs"
     },
     {
-      "date": "2026-06-28",
-      "hours": 9.49,
-      "text": "9 hrs 29 mins"
+      "date": "2026-10-06",
+      "hours": 2.53,
+      "text": "2 hrs 31 mins"
     },
     {
-      "date": "2026-06-29",
-      "hours": 12.63,
-      "text": "12 hrs 37 mins"
+      "date": "2026-10-07",
+      "hours": 9.16,
+      "text": "9 hrs 9 mins"
     },
     {
-      "date": "2026-06-30",
-      "hours": 3.76,
-      "text": "3 hrs 45 mins"
+      "date": "2026-10-08",
+      "hours": 1.59,
+      "text": "1 hr 35 mins"
     }
   ],
   "ai": {
-    "title": "代码过载",
-    "quote": "你的代码像城市霓虹，持续闪烁，别让主板烧掉。",
-    "tarot": "⚡ The Tower",
-    "theme_color": "#00fff7"
+    "title": "渐入佳境",
+    "quote": "保持节奏，每一行代码都是通往赛博朋克的砖瓦。",
+    "tarot": "🌱 The Empress (皇后)",
+    "theme_color": "#80ed99"
   }
 };
